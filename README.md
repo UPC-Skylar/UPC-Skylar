@@ -56,4 +56,17 @@
 	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/UPC-Skylar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UPC-Skylar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UPC-Skylar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+<a href="https://www.linkedin.com/in/skylar-upc/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:skylarupc@gmail.com"><img src="https://img.shields.io/badge/-skylarupc@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
  
