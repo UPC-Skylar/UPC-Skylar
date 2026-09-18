@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Domain Driven Design and Microservice Based Architecture\
 👾 &nbsp;In my free time, I enjoy reading, working out, watching movies and playing video games\
 💬 &nbsp;Feel free to reach out to me to collaborate on interesting projects, or just for some interesting discussion \
-✉️ &nbsp;You can shoot me an email at skylarupc@gmail.com! I'll try to respond as soon as I can
+✉️ &nbsp;You can shoot me an email at ryvencode@gmail.com! I'll try to respond as soon as I can
 
 ## 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
